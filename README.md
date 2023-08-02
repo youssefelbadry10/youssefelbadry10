@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @youssefelbadry10
-- 💻 I am an Enguneer Student
+- 💻 I am an Engineer Student
 - 👀 I’m interested in Python,AI ...
 - 🌱 I’m currently learning Artificial intelligence...
 
