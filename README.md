@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Youssef Elbadry</h1>
 <h3 align="center">A Computer and Communication Engineer</h3>
 
-![](https://www.canva.com/design/DAFtF8j3n4M/u24ufFNSIb4TiHmMx_5F3w/view?utm_content=DAFtF8j3n4M&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
-
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefelbadry10&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelbadry10" /> </p>
+
+(img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/python-9608916-7845406.mp4?h=700...")
+
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
