@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Youssef Elbadry</h1>
 <h3 align="center">A Computer and Communication Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-gif-25731151...">
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefelbadry10&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelbadry10" /> </p>
 
 
+
 - 🌱 I’m currently learning **Artificial intelligence**
-
 - 📫 How to reach me **youssefelbadry844@gmail.com**
-
 - ⚡ I’m interested in **Python, AI**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
