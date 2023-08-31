@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Elbadry</h1>
 <h3 align="center">A Computer and Communication Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/python-9608916-7845406.mp4?h=700...">
 
 
 
