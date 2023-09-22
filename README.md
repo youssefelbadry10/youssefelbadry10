@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Youssef Elbadry</h1>
-<h3 align="center"> Computer Engineer & AI Developer 💻 </h3>
+<h3 align="center">Undergraduate Computer Engineer || AI Developer 💻 </h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-0098d6e8ed2f42ee553326c0d4b3418b">
+
 
 
 - 🌱 I’m currently learning **Artificial intelligence**
