@@ -3,6 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-0098d6e8ed2f42ee553326c0d4b3418b">
 
 
+- 🌱 I’m currently learning **Artificial intelligence**
+- 📫 How to reach me **youssefelbadry844@gmail.com**
+- ⚡ I’m interested in **Python, AI**
+
 
 
 <h3 align="left">Connect with me:</h3>
