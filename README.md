@@ -2,13 +2,9 @@
 <h3 align="center">Undergraduate Computer Engineer || AI Developer 💻 </h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQFaLSNiDpYV1g/article-cover_image-shrink_600_2000/0/1686694179929?e=2147483647&v=beta&t=V9-iqKuW19byCSRylJGXFDpccKawJdaQu6-vhkMmDcM">
-
-
-
-- 🌱 I’m currently learning **Artificial intelligence**
-- 📫 How to reach me **youssefelbadry844@gmail.com**
-- ⚡ I’m interested in **Python, AI**
+<br>
+<div align="Centre">
+<img src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif" width="400px" />
 
 
 
