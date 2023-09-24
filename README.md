@@ -4,7 +4,7 @@
 
 <br>
 <div align="Centre">
-<img src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif" width="400px" />
+<img src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif" width="500px" />
 
 
 
