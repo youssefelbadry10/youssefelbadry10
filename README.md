@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Elbadry</h1>
-<h3 align="center">Undergraduate Computers and Communications Engineer 💻 </h3>
+<h3 align="center">Undergraduate Computer Engineer 💻|| AI developer </h3>
 
 
 <br>
