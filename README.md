@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef Elbadry</h1>
-<h3 align="center">🤖 AI & Automation Engineer | 📊 Data Scientist</h3>
+<h3 align="center">🤖 Technical Team Lead & AI Solution Architect | 🏆 Kaggle Grandmaster</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=AI+%26+Automation+Engineer;Data+Scientist;Machine+Learning+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Technical+Team+Lead+%40+Rubix+SA;AI+Solution+Architect;Advanced+AI+Instructor+%40+Instant;Kaggle+Grandmaster;Data+Scientist+%26+ML+Engineer" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -11,12 +11,62 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🔭 I'm currently working on **AI & Automation projects**
-- 🌱 Passionate about **Machine Learning, Deep Learning & Data Science**
-- 💡 I love building intelligent systems that solve real-world problems
-- 📫 Reach me at **LinkedIn** below
+-  **Technical Team Lead & AI Solution Architect** @ Rubix Consulting — leading cross-functional teams to build production-grade AI systems
+-  **Advanced AI Instructor** @ Instant Software Solutions — teaching GANs, AI Agents & more
+-  **AI Engineer** with hands-on experience in deep learning, automation & data science
+-  **Kaggle Grandmaster** — competing and winning at the highest level in ML competitions
+-  Based in **Cairo, Egypt**
+-  Passionate about building intelligent systems that solve complex real-world problems
+
+---
+
+### Experience Highlights
+
+| Role | Company |
+|------|---------|
+|  Technical Team Lead & AI Solution Architect | Rubix Consulting |
+|  Advanced AI & Automation Trainer | Orange Digital Center Egypt | 
+|  Advanced AI Instructor | Instant Software Solutions |
+|  AI Engineer | Syntech | 
+|  Data Scientist | Institute of Management Professionals |
+
+
+<h1 align="center">Hi 👋, I'm Youssef Elbadry</h1>
+<h3 align="center">🤖 Technical Team Lead & AI Solution Architect | 🏆 Kaggle Grandmaster</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Technical+Team+Lead+%40+Rubix+SA;AI+Solution+Architect;Advanced+AI+Instructor+%40+Instant;Kaggle+Grandmaster;Data+Scientist+%26+ML+Engineer" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <img src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif" width="400px" />
+</div>
+
+---
+
+###  About Me
+
+-  **Technical Team Lead & AI Solution Architect** @ Rubix Consulting — leading cross-functional teams to build production-grade AI systems
+-  **Advanced AI Instructor** @ Instant Software Solutions — teaching GANs, AI Agents & more
+-  **AI Engineer** with hands-on experience in deep learning, automation & data science
+-  **Kaggle Grandmaster** — competing and winning at the highest level in ML competitions
+-  Based in **Cairo, Egypt**
+-  Passionate about building intelligent systems that solve complex real-world problems
+
+---
+
+### 💼 Experience Highlights
+
+| Role | Company | Period |
+|------|---------|--------|
+|  Technical Team Lead & AI Solution Architect | Rubix Consulting | Feb 2026 – Present |
+|  Advanced AI & Automation Trainer | Orange Digital Center Egypt | Jan 2026 – Feb 2026 |
+|  Advanced AI Instructor | Instant Software Solutions | Jun 2025 – Present |
+|  AI Instructor | Self / Hybrid | Sep 2023 – Present |
+|  AI Engineer | Syntech | Jul 2025 – Feb 2026 |
+|  Data Scientist | Institute of Management Professionals | Feb 2024 – Feb 2026 |
 
 ---
 
@@ -33,7 +83,14 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-008080?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
+**Specialties:** Generative Adversarial Networks (GANs) · AI Agents · Deep Learning · Automation · Decision Sciences · Exploratory Data Analysis
 
 ---
 
