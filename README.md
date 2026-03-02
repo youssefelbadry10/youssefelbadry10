@@ -57,18 +57,7 @@
 
 ---
 
-### 💼 Experience Highlights
 
-| Role | Company | Period |
-|------|---------|--------|
-|  Technical Team Lead & AI Solution Architect | Rubix Consulting | Feb 2026 – Present |
-|  Advanced AI & Automation Trainer | Orange Digital Center Egypt | Jan 2026 – Feb 2026 |
-|  Advanced AI Instructor | Instant Software Solutions | Jun 2025 – Present |
-|  AI Instructor | Self / Hybrid | Sep 2023 – Present |
-|  AI Engineer | Syntech | Jul 2025 – Feb 2026 |
-|  Data Scientist | Institute of Management Professionals | Feb 2024 – Feb 2026 |
-
----
 
 ### 🛠️ Tech Stack
 
